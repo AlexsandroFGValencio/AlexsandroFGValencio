@@ -6,7 +6,7 @@ My name is Alexsandro Valencio, and I am from Brazil.
 
 I've been working as System Developer Analyst since 2019.
 
-I have worked with a lot of different projects, and I love to contribute to the community and mentoring people in different areas, such as credit analysis, project management, QA and others.
+I have worked with a lot of projects, and I love to contribute to the community and mentoring people in different areas, such as credit analysis, project management, QA and others.
 
 More about me:
 
