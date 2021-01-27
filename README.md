@@ -8,7 +8,7 @@ I've been working as System Analyst Developer since 2019.
 
 I have worked with a lot of different projects, and I love to contribute to the community and mentoring people in different areas, such as credit analysis, project management, QA and others.
 
-- More about me:
+More about me:
 
 - 🔭 I’m currently working as Jr. System Developer Analyst
 
@@ -16,7 +16,7 @@ I have worked with a lot of different projects, and I love to contribute to the 
 
 - 😄 Pronouns: He/Him
 
-- Background:
+- 🚀 Background:
   - For almost 10 years I worked in different areas in the financial market, such as:
     - Business Analyst
     - Credit Analyst
