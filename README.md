@@ -10,7 +10,7 @@ I have worked with a lot of different projects, and I love to contribute to the 
 
 - More about me:
 
-- 🔭 I’m currently working as Jr. System Analyst Developer
+- 🔭 I’m currently working as Jr. System Developer Analyst
 
 - 🌱 I’m currently learning ReactJS, React Native, Node, Python, MongoDB, Software Architecture, Agile Methodologies, and E2E/Unit tests
 
