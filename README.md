@@ -10,17 +10,19 @@ I have worked with a lot of projects, and I love to contribute to the community 
 
 More about me:
 
-- 🔭 I’m currently working as Jr. System Developer Analyst
+- 🔭 I’m currently working as Python Developer
 
-- 🌱 I’m currently learning ReactJS, React Native, Node, Python, MongoDB, Software Architecture, Agile Methodologies, and E2E/Unit tests
+- 🌱 I’m currently learning ReactJS, React Native, Node
 
 - 😄 Pronouns: He/Him
 
 - 🚀 Background:
   - For almost 10 years I worked in different areas in the financial market, such as:
+    - Help Desk Analyst Level 1, 2 and 3
+    - Project Analyst
+    - Process Analyst
     - Business Analyst
     - Credit Analyst
-    - Project and Process Analyst
     
 ---
 
