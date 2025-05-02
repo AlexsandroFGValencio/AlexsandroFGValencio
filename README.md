@@ -1,51 +1,67 @@
-### Hello World 👋
+<h1 align="center">Hey there! I'm Alexsandro Valêncio 👋</h1>
 
-![](https://github.com/AlexsandroFGValencio/images/blob/main/tenor.gif)
+<p align="center">
+  🧠 Software Engineer | 👨‍💻 Tech Lead | 🏗️ Solutions Architect in training
+</p>
 
-My name is Alexsandro Valencio, and I am from Brazil.
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexsandrovalencio" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-AlexsandroValencio-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:alexsandro.valencio@gmail.com">
+    <img src="https://img.shields.io/badge/Email-alexsandro.valencio@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-I've been working as System Developer Analyst since 2019.
-
-I have worked with a lot of projects, and I love to contribute to the community and mentoring people in different areas, such as credit analysis, project management, QA and others.
-
-More about me:
-
-- 🔭 I’m currently working as Python Developer
-
-- 🌱 I’m currently learning ReactJS, React Native, Node
-
-- 😄 Pronouns: He/Him
-
-- 🚀 Background:
-  - For almost 10 years I worked in different areas in the financial market, such as:
-    - Help Desk Analyst Level 1, 2 and 3
-    - Project Analyst
-    - Process Analyst
-    - Business Analyst
-    - Credit Analyst
-    
 ---
 
-## Follow me
+## 🧬 About Me
 
-[![Linkedin: AlexsandroValencio](https://img.shields.io/badge/-AlexsandroValencio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexsandrovalencio/)](https://www.linkedin.com/in/alexsandrovalencio/)
+I'm a software engineer with almost a decade of experience building backend systems and data-driven platforms. Currently, I lead a latam engineering team that delivers real-time data pipelines, scalable APIs, and robust ETL solutions used across 40+ countries.
 
-[![GitHub AlexsandroFGValencio](https://img.shields.io/github/followers/AlexsandroFGValencio?label=follow&style=social)](https://github.com/AlexsandroFGValencio)
+My focus lies in creating resilient architectures, clean codebases, and high-impact workflows using technologies like Python, FastAPI, Prefect, Scrapy, PostgreSQL, Docker, Kubernetes, GitHub Actions and more. I believe that engineering is not just about shipping code — it's about designing systems that evolve well, scale with confidence, and simplify the lives of those who build and use them.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=AlexsandroValencio&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=34)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandroFGValencio&layout=compact&theme=gruvbox&langs_count=10&line_height=34)](https://github.com/AlexsandroFGValencio/github-readme-stats&)
+I'm also pursuing an MBA in Solutions Architecture to deepen my understanding of distributed systems, cloud-native design, and business-aligned engineering.
 
-## Tech Skills
+If you're into backend engineering, technical leadership, or making complex systems simpler — let's connect.
 
-![Python](https://upload.wikimedia.org/wikipedia/commons/a/a5/Blue_Python_3.8_Shield_Badge.svg)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?logo=yarn&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+---
 
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Scrapy-2C3E50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prefect-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</div>
+
+---
+
+## 🎯 Current Focus Areas
+
+- 🧠 Writing a **Python e-book** that is fun, in-depth, and designed for those ready to go beyond the basics  
+- ☁️ Deepening expertise in **Kubernetes, Docker, and cloud-native architecture**  
+- 🧩 Designing systems with a focus on **resilience, testing, observability, and long-term maintainability**
+
+---
+
+## 💬 Fun Facts
+
+- ✍️ I'm writing a technical book and building courses with **depth, clarity, and humor**
+- 🏕️ I was a scout for nearly 15 years — and no, I didn’t sell cookies 😄
+- 🎓 I enjoy teaching and have mentored students in Java during university and individuals learning Python
+
+---
+
+<p align="center"><b>📬 Like what you see? Let’s connect and talk about backend, data engineering, architecture, or cool side projects!</b></p>
+
+<p align="center">
+  ⭐️ Feel free to reach out or leave a star — I’m always up for great conversations and collaborations!
+</p>
